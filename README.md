@@ -2,7 +2,6 @@
 
 🎓 Student of Informatics and Computer Engineering @ **University of West Attica**
 🌍 Completed an Erasmus+ Exchange (Computer Software Engineering) @ **Politécnico de Coimbra**, Portugal
-🔧 Interested in **embedded systems, industrial automation & communication systems**
 
 ---
 
